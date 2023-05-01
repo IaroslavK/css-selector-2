@@ -1,90 +1,90 @@
-/* .btn:hover {
+.btn:hover {
     color: red;
     background: yellow;
-} */
+}
 
-/* a:hover {
+a:hover ~ .title{
     background: green;
-} */
+}
 
-/* a:visited {
-    color: green;
-} */
+a:visited {
+    color: yellow;
+}
 
-/* a:link {
+.link:link {
     color: red;
-} */
+}
 
-/* .btn:active {
+.btn:active:active{
     background: blue;
-} */
+}
 
-/* .btn:focus {
+.btn:focus {
     background: orange;
     color: orange;
-} */
+}
 
-/* #target:target{
+#target:target{
     background: green;
     color: green;
-} */
+}
 
-/* input[type='checkbox']:checked ~ #target{
+input[type='checkbox']:checked ~ #target{
     color: white;
     background: blue;
-} */
+}
 
-/* p:lang(uk) {
+p:lang(uk) {
     color: blue;
-} */
+}
 
 
-/* input:enabled{
+input:enabled{
     background: yellow;
     color: red;
-} */
+}
 
-/* input:disabled{
+input:disabled{
     background: yellow;
-}  */
+} 
 
-/* input:read-write{
+input:read-write{
     background: yellow;
-}  */
+} 
 
-/* input:read-only{
+input:read-only{
     background: yellow;
-}  */
+} 
 
-/* input:valid{
+input:valid{
 background-color: green;
 }
 
 input:invalid{
     background-color: red;
-} */
+}
 
-/* input:optional{
+#message:optional{
     background: red;
-} */
+}
 
-/* input[type='number']:out-of-range{
+input[type='number']:out-of-range{
     color: red;
-} */
+}
 
-/* input[type='number']:in-range{
+input[type='number']:in-range{
     color: red;
-} */
+}
 
-/* input:placeholder-shown {
+input:placeholder-shown {
     background-color: red;
-} */
+}
 
-/* button:focus-within {
+button:focus-within {
     color: white;
     background: yellow;
-} */
+}
 
-/* input:invalid {
+input:invalid {
     background: red;
-} */
+}
