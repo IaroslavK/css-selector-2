@@ -1,1 +1,90 @@
+/* .btn:hover {
+    color: red;
+    background: yellow;
+} */
 
+/* a:hover {
+    background: green;
+} */
+
+/* a:visited {
+    color: green;
+} */
+
+/* a:link {
+    color: red;
+} */
+
+/* .btn:active {
+    background: blue;
+} */
+
+/* .btn:focus {
+    background: orange;
+    color: orange;
+} */
+
+/* #target:target{
+    background: green;
+    color: green;
+} */
+
+/* input[type='checkbox']:checked ~ #target{
+    color: white;
+    background: blue;
+} */
+
+/* p:lang(uk) {
+    color: blue;
+} */
+
+
+/* input:enabled{
+    background: yellow;
+    color: red;
+} */
+
+/* input:disabled{
+    background: yellow;
+}  */
+
+/* input:read-write{
+    background: yellow;
+}  */
+
+/* input:read-only{
+    background: yellow;
+}  */
+
+/* input:valid{
+background-color: green;
+}
+
+input:invalid{
+    background-color: red;
+} */
+
+/* input:optional{
+    background: red;
+} */
+
+/* input[type='number']:out-of-range{
+    color: red;
+} */
+
+/* input[type='number']:in-range{
+    color: red;
+} */
+
+/* input:placeholder-shown {
+    background-color: red;
+} */
+
+/* button:focus-within {
+    color: white;
+    background: yellow;
+} */
+
+/* input:invalid {
+    background: red;
+} */
